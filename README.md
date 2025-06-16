@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 align="left">Hi 👋! My name is Chinwenmeri and I'm a Data Analyst, from Nigeria.</h2>
 
 ###
