@@ -17,8 +17,7 @@
 
 ###
 
-# MISSION ![image](https://github.com/user-attachments/assets/773d18b8-3798-4ccf-81cc-f9864e33f895)
-![image](https://github.com/user-attachments/assets/773d18b8-3798-4ccf-81cc-f9864e33f895)
+# MISSION 	♥️ :hearts:
 
 
 To discover Valuable insights for successful business decisions.
