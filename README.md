@@ -22,7 +22,7 @@
 To discover Valuable insights for successful business decisions.
 
 
-* ABOUT
+#* ABOUT
 
 I am a passionate data analyst.
 
