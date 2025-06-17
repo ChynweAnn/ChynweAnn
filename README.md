@@ -22,15 +22,20 @@ To discover Valuable insights for successful business decisions.
 
 ## ABOUT
 
-I am a passionate data analyst.
+A results-driven Data Analyst. I leverage insights to directly impact customer loyalty, reduce churn, increase wallet share, and amplify satisfaction.
 
 ### SKILLS
 
 1) Microsoft Excel
 2) Microsoft PowerBi
-3) SQL
+3) MYSQL
 4) Tableau
 5) Python
+6) Statistics
+7) Data Visualization
+8) Reporting
+9) Problem Solving
+10) Critical thinking
 
 
 
