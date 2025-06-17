@@ -17,7 +17,7 @@
 
 ###
 
-# MISSION 	♥️ :hearts:
+# MISSION 	:hearts:
 
 
 To discover Valuable insights for successful business decisions.
