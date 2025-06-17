@@ -18,8 +18,6 @@
 ###
 
 # MISSION 		♥
-
-
 To discover Valuable insights for successful business decisions.
 
 ## ABOUT
