@@ -15,6 +15,22 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
 </div>
 
+## MISSION
+To discover Valuable insights for successful business decision
+
+##ABOUT
+I am a passionate data analyst
+
+#SKILSS
+1) Microsoft Excel
+2) Microsoft PowerBi
+3) SQL
+4) Tableau
+5) Python
+
+
+
+
 **ChynweAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
