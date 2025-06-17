@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
 </div>
 
-#MISSION 
+#
+MISSION 
 To discover Valuable insights for successful business decision
 
 #ABOUT
