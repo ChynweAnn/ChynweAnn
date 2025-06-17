@@ -15,8 +15,7 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
 </div>
 
-
-
+###
 
 ##MISSION
 
@@ -37,7 +36,7 @@ I am a passionate data analyst.
 
 
 
-
+--
 **ChynweAnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
