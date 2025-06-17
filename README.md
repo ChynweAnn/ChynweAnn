@@ -25,7 +25,7 @@ To discover Valuable insights for successful business decisions.
 
 I am a passionate data analyst.
 
-##SKILLS
+### SKILLS
 
 1) Microsoft Excel
 2) Microsoft PowerBi
