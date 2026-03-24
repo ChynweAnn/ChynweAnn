@@ -37,9 +37,9 @@ A results-driven Data Analyst with 2+ years of experience turning complex datase
 
 ### CURRENT FOCUS
 
-1)Automating multi-source reconciliation and stopping revenue leakage.
-2)Statistical modeling and diagnostic analytics.
-3)Transforming complex data into actionable business stories.
+1) Automating multi-source reconciliation and stopping revenue leakage.
+2) Statistical modeling and diagnostic analytics.
+3) Transforming complex data into actionable business stories
 
 ### CERTIFICATIONS
 
