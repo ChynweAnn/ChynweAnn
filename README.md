@@ -57,6 +57,7 @@ E-commerce Analytics
 
 ### LET'S CONNECT
 Email: Chinwenmeriann@gmail.com
+
 Linkedin:https://www.linkedin.com/in/nmeri-amalaha?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFUfHjq2oTHSOvumJjIY4Iw%3D%3D
 
 
