@@ -20,22 +20,44 @@
 # MISSION 		♥
 To discover Valuable insights for successful business decisions.
 
-## ABOUT
+## ABOUT ME
 
-A results-driven Data Analyst. I leverage insights to directly impact customer loyalty, reduce churn, increase wallet share, and amplify satisfaction.
+A results-driven Data Analyst with 2+ years of experience turning complex datasets into actionable business insights. I leverage insights to directly impact customer loyalty, reduce churn, increase wallet share, and amplify satisfaction.
 
 ### SKILLS
 
-1) Microsoft Excel
-2) Microsoft PowerBi
-3) MYSQL
-4) Tableau
-5) Python
-6) Statistics
-7) Data Visualization
-8) Reporting
-9) Problem Solving
-10) Critical thinking
+1) Data Analytics: Microsoft Excel and PowerBi
+2) Languages: Python, SQL
+3) Tableau
+4) Statistics
+5) Reporting
+6) Problem Solving
+7) Critical thinking
+8) Other Tools: Stata SE
+
+### CURRENT FOCUS
+
+1)Automating multi-source reconciliation and stopping revenue leakage.
+2)Statistical modeling and diagnostic analytics.
+3)Transforming complex data into actionable business stories.
+
+### CERTIFICATIONS
+
+Google Coursera Certified: Google Data Analytics
+
+### PROJECTS
+
+E-commerce Analytics
+
+### OPEN TO
+
+1) Roles: Data Analyst, BI Specialist, Financial Data Consultant.
+2) Projects: SQL optimization, Power BI dashboarding, and revenue audits.
+3) Collaboration: Open-source financial data tools or community data projects.
+
+### LET'S CONNECT
+Email: Chinwenmeriann@gmail.com
+Linkedin:https://www.linkedin.com/in/nmeri-amalaha?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFUfHjq2oTHSOvumJjIY4Iw%3D%3D
 
 
 
