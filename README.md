@@ -26,34 +26,34 @@ A results-driven Data Analyst with 2+ years of experience turning complex datase
 
 ### SKILLS
 
-1) Data Analytics: Microsoft Excel and PowerBi
-2) Languages: Python, SQL
-3) Tableau
-4) Statistics
-5) Reporting
-6) Problem Solving
-7) Critical thinking
-8) Other Tools: Stata SE
+*  Data Analytics: Microsoft Excel and PowerBi
+*  Languages: Python, SQL
+*  Tableau
+*  Statistics
+*  Reporting
+*  Problem Solving
+*  Critical thinking
+*  Other Tools: Stata SE
 
 ### CURRENT FOCUS
 
-1) Automating multi-source reconciliation and stopping revenue leakage.
-2) Statistical modeling and diagnostic analytics.
-3) Transforming complex data into actionable business stories
+*  Automating multi-source reconciliation and stopping revenue leakage.
+*  Statistical modeling and diagnostic analytics.
+*  Transforming complex data into actionable business stories
 
 ### CERTIFICATIONS
 
-Google Coursera Certified: Google Data Analytics
+* Google Coursera Certified: Google Data Analytics
 
 ### PROJECTS
 
-E-commerce Analytics
+* E-commerce Analytics
 
 ### OPEN TO
 
-1) Roles: Data Analyst, BI Specialist, Financial Data Consultant.
-2) Projects: SQL optimization, Power BI dashboarding, and revenue audits.
-3) Collaboration: Open-source financial data tools or community data projects.
+*  Roles: Data Analyst, BI Specialist, Financial Data Consultant.
+*  Projects: SQL optimization, Power BI dashboarding, and revenue audits.
+*  Collaboration: Open-source financial data tools or community data projects.
 
 ### LET'S CONNECT
 Email: Chinwenmeriann@gmail.com
